@@ -28,7 +28,7 @@ app.get('/additem')
 //             if(err) console.log(err)
 //             console.log(result)
 //             res.send('Database created...')
-//         })
+//         }) 
 // })
 
 // // Create table
