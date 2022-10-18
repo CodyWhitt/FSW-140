@@ -3,7 +3,7 @@ const mysql = require('mysql')
 
 const db = mysql.createConnection({
     user     : 'root',
-    password : 'Ctphaxf7',
+    password : '123456',
     database : 'avengers'
 })
 
@@ -42,4 +42,4 @@ app.get('/additem')
 
 app.listen('3000', ()=> {
   console.log('server started on port 3000')
-})  
+})   
