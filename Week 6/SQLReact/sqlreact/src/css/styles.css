@@ -1,0 +1,23 @@
+table, th, td, a {
+    border:1px solid black;
+    font-size: 7px;
+  }
+
+table {
+    width: 100%;
+    background-color: lightsalmon;
+}
+
+th, td, a {
+    width: 25%;
+    background-color: lightblue
+}
+
+a {
+    display:block;
+    width: 99%;
+    font-size: 9px;
+}
+html {
+    background-color: red;
+}
